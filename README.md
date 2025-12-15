@@ -1,10 +1,11 @@
 <div align="center">
 
-# 🌸 Hi, I'm **Madhan**
+# 👋 Hi, I'm **Madhan Kumar E**
 
-### *Learning • Building • Growing* ✨
+🎓 **B.Tech – Artificial Intelligence & Data Science**
+💻 Web Development • 📊 Data Analysis • 🤖 AI & ML
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Engineering+Student;Tech+Explorer;Future+AI+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?size=21&duration=3000&color=6C63FF&center=true&vCenter=true&width=520&lines=AI+%26+Data+Science+Student;Web+%26+Data+Enthusiast;Learning+by+Building;Consistency+Over+Perfection" />
 
 </div>
 
@@ -12,69 +13,41 @@
 
 ## 🧠 About Me
 
-🌱 Engineering student passionate about **technology & innovation**
-🤖 Interested in **AI, Robotics & Intelligent Systems**
-📊 Enjoy working with **data & logic**
-🚀 Focused on **consistent growth, not shortcuts**
+* 🎓 AI & Data Science student
+* 🤖 Interested in **Machine Learning, NLP & Intelligent Systems**
+* 🌐 Comfortable with **Full-Stack Web Development**
+* 📊 Like working with **data, logic & insights**
+* 🚀 Focused on steady improvement & real skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
+`Java` `Python`
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=mysql\&logoColor=white)
+**Web**
+`HTML` `CSS` `JavaScript` `React.js`
 
-### 🧰 Tools
+**Databases**
+`MySQL` `PostgreSQL`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 📌 Currently
-
-* 📚 Strengthening **core engineering concepts**
-* 🧪 Practicing **coding & problem solving**
-* 🤍 Building discipline & long-term skills
+**Tools**
+`Power BI` `Git` `GitHub`
 
 ---
 
-## 📈 GitHub Stats
+## 🌍 Find Me Online
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Madhan-kumar-E&show_icons=true&theme=rose_pine" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhan-kumar-E&theme=rose_pine" height="160"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake animation](https://github.com/Madhan-kumar-E/Madhan-kumar-E/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-🌐 Portfolio — *Coming soon*
-💼 LinkedIn — *Add link*
-📧 Email — *Add email*
+* 🐙 GitHub → [https://github.com/Madhan-kumar-E](https://github.com/Madhan-kumar-E)
+* 💼 LinkedIn → [https://linkedin.com/in/madhan-kumar-e](https://linkedin.com/in/madhan-kumar-e)
+* 🧠 LeetCode → [https://leetcode.com/u/Madhan_Kumar_E](https://leetcode.com/u/Madhan_Kumar_E)
+* 📧 Email → [madhanmischiefmm@gmail.com](mailto:madhanmischiefmm@gmail.com)
 
 ---
 
 <div align="center">
 
-✨ *“Slow progress is still progress.”* ✨
+✨ *Learning today. Building tomorrow.* ✨
 
 </div>
